@@ -5,15 +5,15 @@
 - Target role: DevOps Engineer (junior)
 - Current role: [Junior DevOps Engineer, employer, since Sept 2026]
 
-## Skills I can honestly claim (working / familiar / learning)
-- Keep my current skilss
+## Skills 
+- Keep my current skills
 
-## Projects (real only: name, what it does, tools, link)
+## Projects
 - Keep my data analyst projects
 
 ## Experience
 - No DevOps Experience
-- Keep my existing banking & insurance roles: 
+- Keep my existing banking & insurance roles
 
 ## Education
 - MSc Data Science, Distinction
